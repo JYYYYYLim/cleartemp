@@ -1,6 +1,6 @@
 ## cleartemp
 
-<a href="http://www.somsubhra.com/github-release-stats/?username=Whatevr&repository=elytrabooster"><img src="https://img.shields.io/github/downloads/Whatevr/elytrabooster/total.svg"></a>&nbsp;&nbsp;
+<a href="http://www.somsubhra.com/github-release-stats/?username=Whatevr&repository=cleartemp"><img src="https://img.shields.io/github/downloads/Whatevr/cleartemp/total.svg"></a>&nbsp;&nbsp;
 </p>
 
 automates the clearing of the %temp% folder to save disk space.
