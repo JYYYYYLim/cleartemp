@@ -1,7 +1,5 @@
 ## cleartemp
 
-<a href="http://www.somsubhra.com/github-release-stats/?username=Whatevr&repository=cleartemp"><img src="https://img.shields.io/github/downloads/Whatevr/cleartemp/total.svg"></a>&nbsp;&nbsp;
-</p>
 
 automates the clearing of the %temp% folder to save disk space.
 remember, not all .bat files are viruses. this isnt one either.
